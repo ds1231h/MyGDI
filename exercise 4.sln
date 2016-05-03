@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyGDI", "MyGDI\MyGDI.vcxproj", "{C1B18609-0987-4823-8480-5E410A71D0B3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "my_colorPaint", "..\my_colorPaint\my_colorPaint\my_colorPaint.vcxproj", "{0DC6600F-5DEF-440B-AB92-A675C189C8B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1B18609-0987-4823-8480-5E410A71D0B3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C1B18609-0987-4823-8480-5E410A71D0B3}.Debug|Win32.Build.0 = Debug|Win32
+		{C1B18609-0987-4823-8480-5E410A71D0B3}.Release|Win32.ActiveCfg = Release|Win32
+		{C1B18609-0987-4823-8480-5E410A71D0B3}.Release|Win32.Build.0 = Release|Win32
+		{0DC6600F-5DEF-440B-AB92-A675C189C8B7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0DC6600F-5DEF-440B-AB92-A675C189C8B7}.Debug|Win32.Build.0 = Debug|Win32
+		{0DC6600F-5DEF-440B-AB92-A675C189C8B7}.Release|Win32.ActiveCfg = Release|Win32
+		{0DC6600F-5DEF-440B-AB92-A675C189C8B7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
